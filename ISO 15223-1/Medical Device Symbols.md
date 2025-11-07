@@ -9,7 +9,7 @@
 
 <tbody>
 <tr>
-<td style="background-color: #F5F9FB; border: 1px solid rgba(0, 0, 0, 1); color: #090B43; padding: 14px; text-align: left;"><span style="font-family: Arial;"><img src="https://github.com/Shrushrita/medical-regulatory-review/blob/main/ISO%2015223-1/icons/atmospheric-pressure-limitation.svg" alt="Atmospheric Pressure Limitation" style="border-radius:12px; width:60%; display:block; margin:auto;"></span></td>
+<td style="background-color: #F5F9FB; border: 1px solid rgba(0, 0, 0, 1); color: #090B43; padding: 14px; text-align: left;"><span style="font-family: Arial;"><img src="https://github.com/Shrushrita/medical-regulatory-review/blob/main/ISO%2015223-1/icons/atmospheric-pressure-limitation.svg" alt="Atmospheric Pressure Limitation" style="align:center; border-radius:12px; width:60%; display:block; margin:auto;"></span></td>
 <td style="background-color: #F5F9FB; border: 1px solid rgba(0, 0, 0, 1); color: #090B43; padding: 14px; text-align: left;"><span style="font-family: Arial;">Atmospheric Pressure Limitation Icon</span></td>
 <td style="background-color: #C4DAED; border: 1px solid rgba(0, 0, 0, 1); color: #090B43; padding: 14px; text-align: left;"><span style="font-family: Arial;">Atmospheric Pressure Limitation</span></td>
 </tr>
