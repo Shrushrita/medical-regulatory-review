@@ -14,7 +14,7 @@
 </tr>
 
 <tr>
-  <td><img src="https://github.com/Shrushrita/medical-regulatory-review/blob/main/ISO%2015223-1/icons/atmospheric-pressure-limitation.svg?raw=true"
+  <td><img src="https://github.com/Shrushrita/medical-regulatory-review/blob/main/ISO%2015223-1/icons/authorized-representative-in-the-european-community.svg?raw=true"
              alt="Atmospheric Pressure Limitation"
              style="border-radius: 12px; width: 60%; display: block; margin: auto;"></td>
   <td><span style= "font-weight: bold; background-color: yellow;">AtmosphericPressureLimitationIcon</span></td>  
